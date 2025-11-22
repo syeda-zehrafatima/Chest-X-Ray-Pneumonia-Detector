@@ -1,11 +1,11 @@
 # Chest-X-Ray-Pneumonia-Detector
 
-# 📌 Description & Purpose
+#  Description & Purpose
 
 This project is a research-focused AI system designed to automatically detect Pneumonia from Chest X-ray images. It uses PyTorch, Streamlit, and a fine-tuned ResNet18 CNN model to classify an image as Normal or Pneumonia.
 To enhance transparency, the system also generates Grad-CAM heatmaps, helping users visualize which lung areas influenced the model’s prediction.
 
-# ⚠️ Use Case Notice
+#  Use Case Notice
 
 This tool is intended for:
 
@@ -19,7 +19,7 @@ Visualizing model reasoning using Grad-CAM
 
 Not meant for clinical or diagnostic use.
 
-# 🔧 Technologies Used
+#  Technologies Used
 
 PyTorch & Torchvision – Model training and transfer learning
 
@@ -31,7 +31,7 @@ FPDF – Automatic PDF report generation
 
 KaggleHub – Dataset downloading
 
-# ⭐ Key Features
+#  Key Features
 
 Classifies Chest X-rays into NORMAL or PNEUMONIA
 
@@ -51,7 +51,7 @@ Heatmap visualization
 
 Model trained on the official Kaggle Chest X-ray Pneumonia dataset
 
-# 📂 Dataset Overview
+#  Dataset Overview
 
 Using the Kaggle Chest X-ray Pneumonia dataset, structured as:
 
@@ -91,7 +91,7 @@ Grad-CAM heatmap
 
 Downloadable PDF report
 
-# 📁 Project Structure
+#  Project Structure
 chest-xray-pneumonia-detector/
 │
 ├── app.py               → Streamlit UI  
