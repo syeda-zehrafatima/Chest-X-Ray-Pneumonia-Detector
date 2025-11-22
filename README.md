@@ -63,7 +63,7 @@ test/    → testing images
 
 # How to Use
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/chest-xray-pneumonia-detector.git
+git clone https://github.com/syeda-zehrafatima/Chest-X-Ray-Pneumonia-Detector
 cd chest-xray-pneumonia-detector
 
 2️⃣ Install dependencies
