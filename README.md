@@ -94,11 +94,11 @@ Downloadable PDF report
 #  Project Structure
 chest-xray-pneumonia-detector/
 
-│
 ├── app.py               → Streamlit UI  
 ├── train.py             → Training script  
 ├── infer_gradcam.py     → Model + Grad-CAM logic  
 ├── models/
+
 │     └── xray_model.pth → Saved trained model  
 ├── requirements.txt      → All dependencies  
 └── README.md             → Project overview  
