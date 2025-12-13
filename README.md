@@ -93,6 +93,7 @@ Downloadable PDF report
 
 #  Project Structure
 chest-xray-pneumonia-detector/
+
 │
 ├── app.py               → Streamlit UI  
 ├── train.py             → Training script  
